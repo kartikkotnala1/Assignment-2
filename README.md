@@ -234,7 +234,6 @@ Screenshot:
 
 <img width="960" height="327" alt="image" src="https://github.com/user-attachments/assets/2d8b92a5-a251-4a97-b6fe-1adc293f5755" />
 
-```
 
 ---
 
