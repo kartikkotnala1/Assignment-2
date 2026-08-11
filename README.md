@@ -176,9 +176,9 @@ After creating users, the home directory structure is:
 
 Screenshot:
 
-```
-screenshots/05-directory-structure.png
-```
+
+<img width="918" height="320" alt="image" src="https://github.com/user-attachments/assets/70ed8d17-e7e6-4023-95b9-6f6a3fa08516" />
+
 
 ---
 
@@ -194,9 +194,7 @@ The script applies the following permissions:
 
 Screenshot:
 
-```
-screenshots/06-permissions.png
-```
+<img width="960" height="347" alt="image" src="https://github.com/user-attachments/assets/54d09bcb-80ee-4a1f-abf5-6c2cfafc5184" />
 
 ---
 
