@@ -176,9 +176,7 @@ After creating users, the home directory structure is:
 
 Screenshot:
 
-
-<img width="918" height="320" alt="image" src="https://github.com/user-attachments/assets/70ed8d17-e7e6-4023-95b9-6f6a3fa08516" />
-
+<img width="960" height="348" alt="image" src="https://github.com/user-attachments/assets/69798a43-9224-4334-bd1a-aceabaeaa969" />
 
 ---
 
