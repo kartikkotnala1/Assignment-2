@@ -91,7 +91,8 @@ sudo ./UserManager.sh addTeam unixkings
 Screenshot:
 
 ```
-screenshots/02-add-team.png
+<img width="933" height="219" alt="image" src="https://github.com/user-attachments/assets/b0ebee47-f0d1-4434-ad60-abf7fc9e497f" />
+
 ```
 
 ---
@@ -109,7 +110,8 @@ sudo ./UserManager.sh addUser Sandeep unixkings
 Screenshot:
 
 ```
-screenshots/03-add-user.png
+<img width="960" height="290" alt="image" src="https://github.com/user-attachments/assets/c7dfce7e-7d15-45f0-ba1f-20daf2e2bbe5" />
+
 ```
 
 ---
