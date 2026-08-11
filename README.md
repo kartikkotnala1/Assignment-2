@@ -61,17 +61,10 @@ UserManager.sh
 ```
 Assignment2/
 │
+├── Problem-Statement-2 
 ├── UserManager.sh
-├── README.md
-└── screenshots/
-    ├── 01-project.png
-    ├── 02-add-team.png
-    ├── 03-add-user.png
-    ├── 04-user-details.png
-    ├── 05-directory-structure.png
-    ├── 06-permissions.png
-    ├── 07-list-command.png
-    └── 08-delete-command.png
+└── README.md
+
 ```
 
 ---
