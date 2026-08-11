@@ -91,7 +91,7 @@ sudo ./UserManager.sh addTeam unixkings
 Screenshot:
 
 ```
-<img width="933" height="219" alt="image" src="https://github.com/user-attachments/assets/b0ebee47-f0d1-4434-ad60-abf7fc9e497f" />
+![Add User](https://github.com/user-attachments/assets/b0ebee47-f0d1-4434-ad60-abf7fc9e497f)
 
 ```
 
