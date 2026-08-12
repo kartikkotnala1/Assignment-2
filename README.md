@@ -161,19 +161,7 @@ sudo ./UserManager.sh changePasswd Rakesh
 
 ---
 
-## 8. List Users and Teams
-
-**Commands**
-
-```bash
-sudo ./UserManager.sh ls User
-
-sudo ./UserManager.sh ls Team
-```
-
----
-
-## 9. Delete User and Team
+## 8. Delete User and Team
 
 **Commands**
 
