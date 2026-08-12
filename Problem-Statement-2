@@ -17,11 +17,6 @@ In home directory of every user there should be 2 shared directories
 team: Same team members will have full access
 ninja: All ninja's will have full access
 
-
-
-
-
-
 i.e
 ./UserManager.sh addTeam amigo
 ./UserManager.sh addTeam unixkings
